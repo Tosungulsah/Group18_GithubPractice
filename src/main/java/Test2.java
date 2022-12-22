@@ -3,6 +3,7 @@ public class Test2 {
         System.out.println("nazlican semiz");
 
         // task 2 is completed
+        //updated
 
     }
 }
